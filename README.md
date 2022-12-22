@@ -93,6 +93,10 @@ I have fully commented the codefiles, to explain the flow and logic of the code,
 <a href="https://drive.google.com/file/d/1rjZbYxARhsJ_tQjGpUa4aAak3ZQtkDGx/view"><b>Link to FULL VERSION video walkthrough</b></a>
 
 
+
+https://user-images.githubusercontent.com/112570078/209152615-7071bd36-5420-4e7c-9a30-b77370c59563.mp4
+
+
 ## Usage
 
 Please feel free to use this code for setting up your own E-Commerce Back End, if you have any questions or suggestions, please let me know using the links in the [questions](#questions) section of this README.
